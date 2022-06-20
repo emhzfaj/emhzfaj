@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emhzxx
+- 👋 Hi, I’m @emhzfaj
 - 👀 I’m interested about tech
 - 🌱 I’m currently learning web development and mobile dev
 - 📫 How to reach me email to emhzxx@gmail.com
