@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emhzfaj
 - 👀 I’m interested about tech
 - 🌱 I’m currently learning web development and mobile dev
-- 📫 How to reach me email to emhzxx@gmail.com
+- 📫 How to reach me email to emhfaj@gmail.com
 
 <!---
 emhzxx/emhzxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
